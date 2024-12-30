@@ -1,6 +1,6 @@
-<h1 align="center">Sms-Bombv5.0<br>
+<h1 align="center">Sms-Bombv4.0<br>
 </h1>
-<img src="smsbombv5.png" alt="Paris" class="center">
+<img src="ARHacker.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A Sms-Bomber for termux & Linux `
 
@@ -54,7 +54,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/Sms-Bomb
+git clone https://github.com/arhacker47/Sms-Bomb
 ```
 Go to the Sms-Bomb directory
 ```bash
@@ -79,23 +79,15 @@ python3 main.py
 * `Free version speed is in goodflow`
 
 ## Partners
-* `https://github.com/anubhavanonymous/XLR8_BOMBER`
-* `https://github.com/sw4pn33`
+* `Zork/Xlr8`
 
 ## Note
 * `This Sms-Bomb is mainly to prank Friends`
 
 ## Licence
-Apache 2.0 © Samay825
+Apache 2.0 © arhacker47
 
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `Instagram: @sincryptzork`
-* `Telegram: @sincryptzork`
-
-## Telegram Channel
-
-* `All updates of Team Sincryption will be posted here !`
-* `Link : https://t.me/TeamSincryption`
-
+* `Instagram: @anuj__thakurr`
