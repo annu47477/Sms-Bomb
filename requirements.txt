@@ -4,4 +4,3 @@ pycryptodome
 pwinput
 tqdm
 wget
-progress
